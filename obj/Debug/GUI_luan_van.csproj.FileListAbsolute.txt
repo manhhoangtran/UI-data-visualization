@@ -1,0 +1,10 @@
+C:\Users\mh\Desktop\GUI_luan_van\GUI_luan_van\GUI_luan_van\bin\Debug\GUI_luan_van.exe.config
+C:\Users\mh\Desktop\GUI_luan_van\GUI_luan_van\GUI_luan_van\bin\Debug\GUI_luan_van.exe
+C:\Users\mh\Desktop\GUI_luan_van\GUI_luan_van\GUI_luan_van\bin\Debug\GUI_luan_van.pdb
+C:\Users\mh\Desktop\GUI_luan_van\GUI_luan_van\GUI_luan_van\obj\Debug\GUI_luan_van.csprojAssemblyReference.cache
+C:\Users\mh\Desktop\GUI_luan_van\GUI_luan_van\GUI_luan_van\obj\Debug\GUI_luan_van.Form1.resources
+C:\Users\mh\Desktop\GUI_luan_van\GUI_luan_van\GUI_luan_van\obj\Debug\GUI_luan_van.Properties.Resources.resources
+C:\Users\mh\Desktop\GUI_luan_van\GUI_luan_van\GUI_luan_van\obj\Debug\GUI_luan_van.csproj.GenerateResource.cache
+C:\Users\mh\Desktop\GUI_luan_van\GUI_luan_van\GUI_luan_van\obj\Debug\GUI_luan_van.csproj.CoreCompileInputs.cache
+C:\Users\mh\Desktop\GUI_luan_van\GUI_luan_van\GUI_luan_van\obj\Debug\GUI_luan_van.exe
+C:\Users\mh\Desktop\GUI_luan_van\GUI_luan_van\GUI_luan_van\obj\Debug\GUI_luan_van.pdb
